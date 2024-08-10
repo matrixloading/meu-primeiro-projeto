@@ -1,2 +1,2 @@
-# meu-primeiro-projeto
+# Controle de Estoque
 Meu Primeiro Projeto
